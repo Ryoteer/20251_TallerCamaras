@@ -1378,7 +1378,7 @@ GameObject:
   - component: {fileID: 4445530238114872322}
   - component: {fileID: 543952026734033488}
   m_Layer: 3
-  m_Name: Player
+  m_Name: SmoothPlayer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
